@@ -20,7 +20,7 @@ class RC_Car_Interface():
         for i in range(2):
             print("My cmd is %s" % cmd)
             ser.write(cmd)
-#   For debugging, read cmd from arduino
+        # For debugging, read cmd from arduino
             read_serial= ser.readline()
         #print("rignt cmd debug :{0}".format(read_serial.dtype))
             print(read_serial)    

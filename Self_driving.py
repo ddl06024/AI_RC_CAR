@@ -71,8 +71,8 @@ class SelfDriving:
             time.sleep(0.2)
             
             
-        self.rc_car_cntl.stop()
-        cv2.destroyAllWindows()
+            self.rc_car_cntl.stop()
+            cv2.destroyAllWindows()
                                 
 
         
