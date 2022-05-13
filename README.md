@@ -30,3 +30,4 @@
 - motor2.ino: 바퀴의 속도 구동
 
 ## 구현 영상
+- https://mineral-mine.tistory.com/53
