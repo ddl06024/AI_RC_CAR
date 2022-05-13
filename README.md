@@ -30,4 +30,5 @@
 - motor2.ino: 바퀴의 속도 구동
 
 ## 구현 영상
-- https://mineral-mine.tistory.com/53
+- https://mineral-mine.tistory.com/54
+- 비밀번호: 45NTc1ND
